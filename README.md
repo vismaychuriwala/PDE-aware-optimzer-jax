@@ -11,7 +11,7 @@ Each problem is defined through its PDE residual and solved using multiple optim
 
 ## Usage
 
-Ensure `.mat` files (e.g., `burgers.mat`) are placed in `Optimiser_PINN/data/`.
+Ensure `.mat` files (e.g., `burgers.mat`) are placed in `PDE-aware-optimzer-jax/data/`.
 
 Run training with:
 
