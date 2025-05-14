@@ -1,20 +1,6 @@
 # main.py
-"""Top‑level runner for PINN benchmarks.
-
-Usage examples
---------------
-python main.py --pde burgers --model basic
-python main.py --pde allen_cahn --model basic
-
-Required companion modules
---------------------------
-model.py        – PINN architectures
-optimiser.py    – Adam / SOAP‑PDE / SOAP‑Lib trainers
-residual.py     – PDE residual functions
-dataloader.py   – Loads <pde>.mat and builds training batches
-
-Place the corresponding <pde>.mat file (e.g. burgers.mat, allen_cahn.mat) in your
-working directory before running.
+"""
+Top‑level runner for PINN benchmarks.
 """
 import os
 import argparse
