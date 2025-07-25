@@ -1,6 +1,5 @@
 # PDE-aware-optimizer-jax
-
-Physics-Informed Neural Network (PINN) training framework for benchmarking optimizers on canonical PDEs.
+This repository contains code for the paper [PDE-aware Optimizer for Physics-informed Neural Networks](https://arxiv.org/abs/2507.08118).
 
 This repository supports training PINNs on:
 - Burgers' equation
